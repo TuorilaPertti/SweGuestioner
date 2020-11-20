@@ -1,0 +1,6 @@
+translation,1,2,3,4
+äiti,mamma,mamman,mammor,mammorna
+isä,pappa,pappan,pappor,papporna
+poika,pojke,pojken,pojkar,pojkarna
+mies,man,mannen,män,männen
+nainen,kvinna,kvinnan,kvinnor,kvinnorna

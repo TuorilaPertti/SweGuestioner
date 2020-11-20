@@ -1,0 +1,37 @@
+translation,1,2,3,4
+vaihtoehto,alternativ,alternativet,alternativ,alternativen
+kestää,bestå,består,bestod,bestått
+suorittaa/toimeenpanna,utföra,utför,utförde,utförtet
+kuvata,beskriva,beskriver,beskriv,beskrivit
+tunnettu,välkänd,välkänt,välkända
+perustaja,grundare,grundaren,grundar,grundarna
+alkuperäinen,ursprunglig,ursprungligt,ursprungliga
+varastoida,lagra,lagrar,lagrade,lagrat
+perusta,grund,grunden,grunder,grunderna
+(yhdessä)muodostaa,utgöra,utgör,utgjorde,utgjort
+toteuttaa/viedä läpi,genomföra,genomför,genomförde,genomfördet
+jatkua(ajallisesti),fortsätta,fortsätter,fortsatte,fortsatt
+merkitä/tarkoittaa,innebära,innebär,innebar,inneburit
+palata/uusiutua,återkomma,återkommer,återkom,återkommit
+korotus,lyft,lyftet,lyft,lyften
+tarpeellinen,nödvändig,nödvändigt,nödvändiga
+myöskään,heller
+pahentaa/vaikeuttaa,förvärra,förvärrar,förvärrade,förvärrat
+lisätä/kasvattaa,öka,ökar,ökade,ökat
+vaikka/siitä huolimatta,fast,trots att
+varat(omaisuus),tillgångar,tillgångarna
+saatavuus,tillgång,tillgången
+kysyntä ja tarjonta,tillgång och efterfrågan
+riittämätön,bristande
+vaikuttaa(johonkin),påverka,påverkar,påverkade,påverkat
+konsepti/käsite,begrepp,begreppet,begrepp,begreppen
+läpikotainen/läpikäyminen,genomgående
+erikoinen/erityinen,särskild,särskilt,särskilda
+läpimurto,genombrott,genombrottet,genombrott,genombrotten
+laitteisto/hardware,hårdvara,hårdvaran,hårdvaror,hårdvarorna
+formaatti(koko),storlek,storleken,storlekar,storlekarna
+ylempi/alempi,övre/nedre
+näkyvissä/näkyvä,synlig,synligt,synliga
+ohjelmisto(SW),mjukvara,mjukvaran,mjukvaror,mjukvarorna
+siirtymä/siirtymävaihde,övergång,övergången,övergångar,övergångarna
+tiheys,täthet,tätheten,täthet,täthet

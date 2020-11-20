@@ -1,0 +1,18 @@
+translation,1,2,3,4
+eilen,i går,igår
+ei koskaan,aldrig
+ei...eikä,varken...eller
+siksi että,därför att
+ennen kuin,innan
+ilman,utan
+oikeastaan/itse asiassa,egentligen
+tyhjä,tom,tomt,tomma
+ruma,ful,fult,fula
+erinomainen,utmärkt,utmärkt,utmärkta
+liian,för
+kuten,som
+tavallisesti,vanligen,vanligtvis, i allmänhet
+todella/valtavan,väldigt
+erityisesti/nimenomaan,särskilt
+kauas,långt
+kaukana,långt

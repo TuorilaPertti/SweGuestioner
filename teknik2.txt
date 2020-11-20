@@ -1,0 +1,12 @@
+translation,forms
+vertailu/rinnastus,jämförelse,jämförelsen,jämförelser,jämförelserna
+korvata(jokin),ersätta,ersätter,ersatte,ersatt
+edeltäjä/edelläkävijä,föregångare,föregångaren,föregångar,föregångarna
+numero(merkki),siffra,siffran,siffror,siffrorna
+kappalemäärä/lukumäärä,antal,antalet,antal,antalen
+määrä/paljous,mängd,mängden,mängder,mängderna
+toimiala/toiminta,verksamhet,verksamheten,verksamheter,verksamheterna
+tiede,vetenskap,vetenskapen,vetenskaper,vetenskaperna
+muuttaa(toiseksi),omvandla,omvandlar,omvandlade,omvandlat
+aiheuttaa,orsaka,orsakar,orsakade,orsakat
+ilmaista(lausua julki),uttrycka,uttrycker,uttryckte,uttryckt

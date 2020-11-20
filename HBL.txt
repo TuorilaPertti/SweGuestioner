@@ -1,0 +1,18 @@
+suomennos,taivutusmuodot
+taakka/kuorma,börda,bördan,bördor,bördorna
+alijäämä/vaje,underskött,undersköttet,underskött,underskötten
+leikata,skära,skär,skar,skurit
+teroittaa/kiristää/tiukentaa,skärpa,skärper,skärpte,skärpt
+koskea/kajota,röra,rör,rörde,rört
+välttää/karttaa,undvika,undviker,undvek,undvikit
+seuraaja/kannattaja,anhängare,anhängaren,anhängare,anhängarna
+jäsen(yhteisön),ledamot,ledamoten,ledamöter,ledamöterna
+antaa aihetta/aiheuttaa,orsaka,orsakar,orsakade,orsakat
+jatke/pidennys,förlängning,förlängningen,förlängningar,förlängningarna
+huomiota herättävä/silmiinpistävä,iögonenfallande
+ominaispiirre,särdrag,särdraget,särdrag,särdragen
+maksu(hinta/suoritus),avgift,avgiften,avgifter,avgifterna
+kohde(toiminnan),föremål,föremålet,föremål,föremålen
+neuvotella,förhandla,förhandlar,förhandlade,förhandlat
+teko(paha)/ilkityö,dåd,dådet,dåd,dåden
+kyseenalaistaa,ifrågasätta,ifrågasätter,ifrågasatte,ifrågasatt

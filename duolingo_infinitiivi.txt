@@ -1,0 +1,3 @@
+translation,forms
+vaikuttaa(jltk),verka,verkar,verkade,verkat
+ei kukaan/ei mikään,ingen

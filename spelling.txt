@@ -1,0 +1,12 @@
+
+OK: tuplakonsonantti
+förvärra
+förrvärra
+förvära
+
+OK: läheiset vokaalit/konsonantit
+[m,n]
+[j,l]
+[å,o,ö,ä]
+[v,f]
+

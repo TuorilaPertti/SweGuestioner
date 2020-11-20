@@ -1,0 +1,22 @@
+translation,1,2,3,4
+vaatimus/vaade,krav,kravet,krav,kraven
+arviolta/likimäärin,ungefär
+vaihtaa,byta,byter,bytte,bytt
+johtuen(jstk),beroende på
+päinvastainen,motsatt
+helposti lähestyttävä/tavoitettavissa,tillgänglig,tillgängligt,tillgängliga
+lisä-(etuliite),tilläggs-
+toisin kuin,till skillnad från
+(jonkin)mukaan,enligt
+jopa/peräti,till och med
+nykyään,nuförtiden,numera,för närvarande,nutilldags
+tapahtuma/tapaus,händelse,händelsen,händelser,händelserna
+kuvaus/kuvailu,beskrivning,beskrivningen,beskrivningar,beskrivningarna
+harkita/pohtia,överväga,överväger,övervägde,övervägt
+valikoima(tarjonta),utbud,utbudet,utbud,utbuden
+hidas/verkkainen,långsam,långsamt,långsamma
+olisi,vore
+todellinen/oikea,verklig,verkligt,verkliga
+kuulua(jollekulle),tillhöra,tillhör,tillhörde,tillhört
+edes,ens
+tuntematon(unknown),okänd,okänt,okända
